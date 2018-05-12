@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5534
     wikipedia: http://en.wikipedia.org/wiki/Lady_Sarah_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14466#South-African-Memories--13-Social-Warlike--amp--Sporting-from-Diaries-Written-at-the-Time
 gutenberg_bookshelf:
 - Africa
 - Boer War
