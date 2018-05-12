@@ -1,0 +1,37 @@
+_repo: South-African-Memories--13-Social-Warlike--amp--Sporting-from-Diaries-Written-at-the-Time_14466
+_version: 0.1.0
+alternative_title: "South African Memories\r\nSocial, Warlike and Sporting from Diaries\
+  \ Written at the Time"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Sarah Isabella Augusta, Lady
+    birthdate: 1865
+    deathdate: 1929
+    gutenberg_agent_id: '5534'
+    url: http://www.gutenberg.org/2009/agents/5534
+    wikipedia: http://en.wikipedia.org/wiki/Lady_Sarah_Wilson
+description: ''
+gutenberg_bookshelf:
+- Africa
+- Boer War
+- Women's Travel Journals
+- South Africa
+gutenberg_issued: '2004-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14466'
+  lccn: '10035336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South Africa -- Description and travel'
+- !lcsh 'South African War, 1899-1902 -- Personal narratives'
+title: "South African Memories\r\nSocial, Warlike & Sporting from Diaries Written\
+  \ at the Time"
+url: http://www.gutenberg.org/ebooks/14466
